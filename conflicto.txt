@@ -1,1 +1,1 @@
-Cambio realizado desde la rama practica-ramas-samuel
+Cambios integrados después de resolver el conflicto entre main y practica-ramas-samuel
